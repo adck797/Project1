@@ -1,5 +1,7 @@
 # Project1
 2 week bootcamp project 
+Taif uddin
+
 PImage img;
 bird b = new bird();
 pillar[] p = new pillar[3];
